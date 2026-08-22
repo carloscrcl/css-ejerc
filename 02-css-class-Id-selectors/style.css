@@ -1,0 +1,23 @@
+.rosa {
+    color: #000;
+    background-color: #f5aaaa;
+}
+
+.uno{
+    font-family: Verdana, "Dejavu Sans",sans, sans-serif
+}
+
+.tres{
+    font-size: 24px;
+}
+
+#oneID{
+    font-size: 36px;
+    color: blue;
+}
+
+#anotherID{
+    font-size: 24px;
+    background-color: lightgreen;
+}
+
