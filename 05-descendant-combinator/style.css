@@ -1,0 +1,7 @@
+.container .text {
+    text-align: center;
+    font-size: 25px;
+    color:red;
+    line-height: 1.5;
+    background-color: yellow
+}
