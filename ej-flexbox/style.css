@@ -1,0 +1,61 @@
+.flex-container {
+  margin: auto;
+  width: 70vw;
+  background-color: #aaaaaa;
+  height: 80vh;
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  content: "";
+  /* flex-direction: column; */
+
+  /* flex: 1; */
+}
+
+
+
+
+.caja {
+  width: 150px;
+  height: 150px;
+  background-color: cadetblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  font-size: 1.3em;
+  font-weight: 700;
+  /* border: 4px solid blue; */
+  align-content: space-evenly;
+  box-shadow: 10px 5px 10px 1px gray;
+  border-radius: 8px 4px 10px 2px ;
+  /* flex: 1; */
+  color: ;
+ }
+
+ .one{
+  background-color: blanchedalmond;
+  color: black;
+
+ }
+.two{
+  min-width: max-content;
+  background-color: red;
+  /* flex: 1; */
+}
+.three{
+  background-color: darkgoldenrod;
+  flex-shrink: 0;
+
+}
+
+.four{
+  background-color: green;
+}
+
+.five{
+  background-color: blueviolet;
+}
